@@ -37,8 +37,8 @@ sudo npm install -g react-native-cli
 
 ## Authors
 
-* **Jonathan Sias** - [PurpleBooth](https://github.com/JonathanSias)
-* **Rodrigo Acosta** - [PurpleBooth](https://github.com/RodrigoAcosta)
+* **Jonathan Sias** - (https://github.com/JonathanSias)
+* **Rodrigo Acosta** - (https://github.com/RodrigoAcosta)
 
 ## License
 
